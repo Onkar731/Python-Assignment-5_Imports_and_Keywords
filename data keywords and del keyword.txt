@@ -1,0 +1,8 @@
+Q1. Out of all the keywords, name those keywords which are used as data.
+-->   There are 3 keywords which are used as data in python.
+        1) None 	2) True     3) False
+
+Q2. What is the use of del keyword?
+-->   del keyword in python is used to del a variable.
+        syntax - del variable_name
+        example - del var
